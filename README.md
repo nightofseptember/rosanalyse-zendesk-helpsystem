@@ -1,2 +1,0 @@
-# small-projs
-diffrent projects
