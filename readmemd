@@ -1,3 +1,5 @@
+Risikoer ved ett sky-basert helpdesk system.
+
 Dette er en ros analyse hvor vi finner risikoer ved ett sky-basert helpdesk system.
 
 I denne ROS analysen bruker vi 5-Punktskala for sannsynlighet og konsekvens på linje som SSB for å holde oss i tråd med dem.
