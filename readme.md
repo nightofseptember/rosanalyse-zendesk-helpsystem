@@ -47,14 +47,14 @@ Under her skal jeg gå gjennom risikoer, utdype dem og konsekvenser.
 ---
 Ved helpdesk system kan man sende en sak til X-team som skal håndtere det også svarer X-team tilbake til Y-Bruker.
 
-Første risikoen er sensitiv informasjon som blir delt til X-team hvor de ikke trenger å vite det.
+1. Første risikoen er sensitiv informasjon som blir delt til X-team hvor de ikke trenger å vite det.
 
 
 | Risko  | Konsekvens| Tiltak for å unngå       | Status |
 |--------|-----------|--------------------------|--------|
-|        |           |                          |        |
-|        |           |                          |        |
-|        |           |                          |        |
+|     Delt unødvendig sensitiv informasjontil annet team      |Unødvendig men lite konsekvens spørs hva som ble delt|unngå å dele sensitiv informasjon||
+|Person som ikke skal ha, får tak i en bruker|2 lav/2 Liten eneste som kan gå tapt er informasjon mest om hjelp, og annet lignende, passord, og annet blir ikke og skal ikke bli delt over helpdesk    |pass på å ikke miste brukerkonto, / sikkert passord|        
+|Zendesk systemene stanser, blir borte, midlertidlig nede|Brukere får ikke rappotert problemene, og får ikke løst dem, spørs om sakene hindrer jobb eller ikke altså kan brukeren jobbe eller ikke uten å få løst saken|Ute av våre hender hvis vi bruker ekstern sky service, kan prøve å ha midlertidlig sted å legge inn problemer/ta kontakt med IT direkte|        |
 |        |           |                          |        |
 |        |           |                          |        |
 |        |           |                          |        |
